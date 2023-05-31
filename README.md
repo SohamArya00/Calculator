@@ -1,10 +1,15 @@
 # Calculator
 A very basic calculator application created using Java **Swing**. 
 
+[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+## Thank You!
+Please ⭐️ this repo and share it with others
+
 ## Screenshots
 |                Scientific / Dark                | Standard / Colored |
 :------------------------------------------------:|:-------------------|
- ![Dark calculator screenshot](![scientific-dark](https://github.com/SohamArya00/Calculator/screenshots/101948981/0d1585f0-ce79-473d-98de-5b83ce71a0f9)) | ![Colored calculator screenshot](![standard-light](https://github.com/SohamArya00/Calculator/screenshots/101948981/b1a6a845-ba9e-46c8-a03f-441b01e7dce4))
+ ![Dark calculator screenshot](screenshots/scientific-dark.png) | ![Colored calculator screenshot](screenshots/standard-light.png)
 
 ## Requirements 🔧
 * Java 11 or higher.
